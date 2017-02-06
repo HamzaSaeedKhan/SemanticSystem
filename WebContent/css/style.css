@@ -1,0 +1,80 @@
+.playerPage{
+
+}
+
+.info{
+	margin-top: 50px;
+}
+
+.heading{
+	padding-left: 40%;
+}
+
+#textid{
+	padding-left: 15px;
+	margin: 10px;
+	color: #0095B6;
+}
+
+.scoreContainer{
+
+    width: 90px;
+    height: 90px;
+    margin-top: 0px;	
+}
+
+#runsContainer{
+  margin: 20px;
+  width: 90px;
+  height: 90px;
+  position: relative;
+  float: left;
+}
+
+#full_page{
+	
+	width: 1000px;
+	height: 765px	;
+	margin: auto;
+}
+.headerDiv{
+	width: inherit;
+}
+.header{
+    border: groove;
+    width: inherit;
+    height: 80px;
+    
+}
+.profileDiv{
+	height:305px;
+	width: inherit;
+	
+}
+.profile{
+    border: groove;
+	height:inherit;
+}
+.profile img {
+      width: 100%;
+      height: 100%;
+}
+.graphDiv{
+	
+	width: inherit;
+	height: 350px;
+}
+.graph{
+    background-color: white;
+    border: groove;
+    height: inherit;
+    float: left;
+}
+.teamPage{
+	padding: 30px 0px 0px 70px;
+}
+.teamTable{
+	width:80%;
+	padding: 5px 0px 0px 15px;
+}
+
